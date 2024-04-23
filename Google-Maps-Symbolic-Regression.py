@@ -11,7 +11,7 @@ from sklearn.utils.validation import check_random_state
 from gplearn.genetic import SymbolicClassifier, SymbolicRegressor
 
 # API key to be used
-API_KEY = "INSERT_GOOGLE_MAPS_KEY_HERE"
+API_KEY = "INSERT_GOOGLE_API_KEY_HERE"
 
 # initialize google maps api client
 def initialize_google_api_client():
