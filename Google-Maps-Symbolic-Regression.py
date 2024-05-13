@@ -1,4 +1,4 @@
-# (c) Copyright 2024 - Present, Ali Nesayef. Usage is subject to License.
+# (c) Copyright 2024 - Present, Ali Nesayef.
 from random import random, randint
 import googlemaps
 from datetime import datetime
