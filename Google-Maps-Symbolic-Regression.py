@@ -1,4 +1,3 @@
-# Copyright 2024 - Present, Ali Nesayef. Use is subject to the license, which can be found at https://github.com/alinesayef/Google-Maps-Symbolic-Regression/blob/main/LICENSE
 from random import random, randint
 import googlemaps
 from datetime import datetime
